@@ -47,5 +47,5 @@ UPDATE devs
 SET category= 'Music Composer'
 WHERE lastndev = 'Pineda';
 
-select * from devs
+select * from devs;
 
